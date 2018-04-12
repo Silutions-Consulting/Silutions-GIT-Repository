@@ -29,6 +29,7 @@
     }
   },
   "layout": {
+    "instanceid": "06A04-747E-74",
     "type": "columnar",
     "columns": [
       {
@@ -50,7 +51,7 @@
                 ],
                 "width": 100,
                 "stretchable": false,
-                "pxlWidth": 220,
+                "pxlWidth": 351,
                 "index": 0
               }
             ]
@@ -71,7 +72,7 @@
                 ],
                 "width": 100,
                 "stretchable": false,
-                "pxlWidth": 220,
+                "pxlWidth": 351,
                 "index": 0
               }
             ]
@@ -92,7 +93,7 @@
                 ],
                 "width": 100,
                 "stretchable": false,
-                "pxlWidth": 220,
+                "pxlWidth": 351,
                 "index": 0
               }
             ]
@@ -113,18 +114,18 @@
                 ],
                 "width": 100,
                 "stretchable": false,
-                "pxlWidth": 220,
+                "pxlWidth": 351,
                 "index": 0
               }
             ]
           }
         ],
-        "pxlWidth": 235,
+        "pxlWidth": 351,
         "index": 0
       },
       {
         "width": 43.9921530161844,
-        "pxlWidth": 612,
+        "pxlWidth": 915,
         "index": 1,
         "cells": [
           {
@@ -143,7 +144,28 @@
                 ],
                 "width": 100,
                 "stretchable": false,
-                "pxlWidth": 582,
+                "pxlWidth": 915,
+                "index": 0
+              }
+            ]
+          },
+          {
+            "subcells": [
+              {
+                "elements": [
+                  {
+                    "minHeight": 96,
+                    "maxHeight": 2048,
+                    "minWidth": 128,
+                    "maxWidth": 2048,
+                    "defaultWidth": 512,
+                    "widgetid": "5ab2aceaac87db1d98826930",
+                    "height": "384px"
+                  }
+                ],
+                "width": 100,
+                "stretchable": false,
+                "pxlWidth": 609,
                 "index": 0
               }
             ]
@@ -162,27 +184,10 @@
                     "height": "384px"
                   }
                 ],
-                "width": 50.25466893039049,
+                "width": 100,
                 "stretchable": false,
-                "pxlWidth": 296,
+                "pxlWidth": 915,
                 "index": 0
-              },
-              {
-                "elements": [
-                  {
-                    "minHeight": 96,
-                    "maxHeight": 2048,
-                    "minWidth": 128,
-                    "maxWidth": 2048,
-                    "defaultWidth": 512,
-                    "widgetid": "5ab2aceaac87db1d98826930",
-                    "height": "384px"
-                  }
-                ],
-                "width": 49.745331069609506,
-                "stretchable": false,
-                "pxlWidth": 293,
-                "index": 1
               }
             ]
           }
@@ -190,7 +195,7 @@
       },
       {
         "width": 39.13865470361545,
-        "pxlWidth": 544,
+        "pxlWidth": 814,
         "index": 2,
         "cells": [
           {
@@ -209,7 +214,7 @@
                 ],
                 "width": 100,
                 "stretchable": false,
-                "pxlWidth": 521,
+                "pxlWidth": 814,
                 "index": 0
               }
             ]
@@ -230,14 +235,20 @@
                 ],
                 "width": 100,
                 "stretchable": false,
-                "pxlWidth": 521,
+                "pxlWidth": 814,
                 "index": 0
               }
             ]
           }
         ]
       }
-    ]
+    ],
+    "container": {
+      "sizcache09048409173722644": 418,
+      "sizset": 94,
+      "__WM_SUSPECT_KEY__": 548112669,
+      "__WM_XPATH_ENTRY_KEY__": 548118893
+    }
   },
   "original": null,
   "datasource": {
